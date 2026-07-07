@@ -77,8 +77,15 @@ A place where I can always come back and see:
 
 ## ✨ Author
 
-**Atryee Chatterjee**
-BCA Student (NEP)
+### ATRYEE CHATTERJEE
+
+<img src="https://github.com/Atryee-Chatterjee.png" width="150px" style="border-radius:50%" />
+
+
+<a href="https://www.linkedin.com/in/atryee-chatterjee/">LinkedIn</a> • <a href="https://github.com/Atryee-Chatterjee">GitHub</a> • <a href="mailto:atryeechatterjee31@gmail.com">Email</a>
+
+
+**Full Stack Developer**
 
 ---
 

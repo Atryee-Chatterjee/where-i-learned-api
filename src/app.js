@@ -5,11 +5,6 @@ const learningRoutes = require("./routes/learningRoutes");
 
 app.use(express.json());
 
-// base route
-app.use("/api/learning", learningRoutes);
+app.use("/where-i-learned-api", learningRoutes);
 
-const PORT = 3000;
-
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+module.exports = app;

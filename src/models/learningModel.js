@@ -1,9 +1,7 @@
-const data = require("../data/db.json");
+const learningData = require("../data/db");
 
-const getAllLearning = () => {
-  return data;
-};
+const getAllData = () => learningData;
 
 module.exports = {
-  getAllLearning,
+  getAllData
 };

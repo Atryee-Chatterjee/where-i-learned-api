@@ -1,10 +1,21 @@
 const learningModel = require("../models/learningModel");
 
-const getLearning = (req, res) => {
-  const data = learningModel.getAllLearning();
-  res.json(data);
+const getLearningData = (req, res) => {
+  try {
+    const data = learningModel.getAllData();
+
+    res.status(200).json({
+      success: true,
+      data
+    });
+  } catch (error) {
+    res.status(500).json({
+      success: false,
+      message: "Error fetching data"
+    });
+  }
 };
 
 module.exports = {
-  getLearning,
+  getLearningData
 };

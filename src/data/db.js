@@ -19,15 +19,32 @@ const learningData = {
           videos: [
             {
               title: "C Full Course",
-              url: "https://youtube.com/...",
+              url: "https://www.youtube.com/watch?v=irqbmMNs2Bo",
               channel: "Apna College",
               hours: 10
             },
             {
-              title: "Pointers in C",
-              url: "https://youtube.com/...",
+              title: "C Language Tutorial for Beginners",
+              url: "https://www.youtube.com/watch?v=aZb0iu4uGwA&t=20913s",
               channel: "CodeWithHarry",
-              hours: 2
+              hours: 10
+            }
+          ]
+        },
+        {
+          name: "Digital Electronics",
+          videos: [
+            {
+              title: "Digital Electronics",
+              url: "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGmXg4NoX6R31AsC5LeCPHe",
+              channel: "Gate Smashers",
+              hours: 20
+            },
+            {
+              title: "Digital Electronics",
+              url: "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+              channel: "Neso Academy",
+              hours: 30
             }
           ]
         }

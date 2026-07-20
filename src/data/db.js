@@ -69,6 +69,23 @@ const learningData = {
               hours: 30
             }
           ]
+        },
+        {
+          name: "Basics of Web Design Using Html, CSS, Java Script",
+          videos: [
+            {
+              title: "Sigma Web Development Course - Web Development Tutorials",
+              url: "https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w",
+              channel: "Code with Harry",
+              hours: 30
+            },
+            {
+              title: "HTML,CSS,JavaScript, Project, Git & GitHub",
+              url: "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i",
+              channel: "Apna College",
+              hours: 30
+            }
+          ]
         }
       ]
     }

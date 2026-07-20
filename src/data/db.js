@@ -49,6 +49,28 @@ const learningData = {
           ]
         }
       ]
+    },
+    {
+      semester: 2,
+      subjects: [
+        {
+          name: "Computer Architecture",
+          videos: [
+            {
+              title: "Computer Organization and Architecture",
+              url: "https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX",
+              channel: "Gate Smashers",
+              hours: 30
+            },
+            {
+              title: "Computer Organization & Architecture(COA)",
+              url: "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q",
+              channel: "Neso Academy",
+              hours: 30
+            }
+          ]
+        }
+      ]
     }
   ]
 };

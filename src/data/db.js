@@ -28,7 +28,14 @@ const learningData = {
               url: "https://www.youtube.com/watch?v=aZb0iu4uGwA&t=20913s",
               channel: "CodeWithHarry",
               hours: 10
-            }
+            },
+            {
+              title: "C Programming Course",
+              url: "https://youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt&si=Gh0wuRTdA7PPdtHP",
+              channel: "College Wallah",
+              hours: 45
+            },
+
           ]
         },
         {
@@ -88,7 +95,40 @@ const learningData = {
           ]
         }
       ]
-    }
+    },
+    {
+      semester: 3,
+      subjects: [
+        {
+          name: "Python Programming",
+          videos: [
+            {
+              title: "Python Tutorial For Beginners in Hindi",
+              url: "https://youtu.be/UrsmFxEIp5k?si=xg70L_6YfRooVpp9",
+              channel: "Code with Harry",
+              hours: 10,
+            },
+            {
+              title: "Python Language Full Course",
+              url: "https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&si=gz2kCuc4eAGe2yXD",
+              channel: "Apna College",
+              hours: 10,
+            },
+          ],
+        },
+        {
+          name: "Data Structure through C",
+          videos: [
+            {
+              title: "Data Structures and Algorithms Course",
+              url: "https://youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&si=joAMmQQBmLoKdXvp",
+              channel: "Code with Harry",
+              hours: 30,
+            },
+          ],
+        },
+      ],
+    },
   ]
 };
 

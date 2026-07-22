@@ -167,6 +167,44 @@ const learningData = {
         },
       ],
     },
+    {
+      semester: 5,
+      subjects: [
+        {
+          name: "Data Base Management System",
+          videos: [
+            {
+              title: "DBMS (Database Management system) Complete Playlist",
+              url: "https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&si=gc7qWtlaIaRFd4dj",
+              channel: "Gate Smashers",
+              hours: 20,
+            }
+          ],
+        },
+        {
+          name: "Operating System",
+          videos: [
+            {
+              title: "Operating System (Complete Playlist)",
+              url: "https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&si=HdL4gmyzOTPeZkF9",
+              channel: "Gate Smashers",
+              hours: 20,
+            },
+          ],
+        },
+        {
+          name: "Software Engineering",
+          videos: [
+            {
+              title: "Software Engineering",
+              url: "https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2&si=8KNGbSDB-0E6TVln",
+              channel: "Gate Smashers",
+              hours: 10,
+            },
+          ],
+        },
+      ],
+    },
   ]
 };
 

@@ -171,35 +171,36 @@ const learningData = {
       semester: 5,
       subjects: [
         {
-          name: "Data Base Management System",
+          name: "PHP WITH MYSQL",
           videos: [
             {
-              title: "DBMS (Database Management system) Complete Playlist",
-              url: "https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&si=gc7qWtlaIaRFd4dj",
-              channel: "Gate Smashers",
-              hours: 20,
-            }
-          ],
-        },
-        {
-          name: "Operating System",
-          videos: [
+              title: "PHP Tutorials in Hindi",
+              url: "https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR&si=bFbU7IkmQSUUe6QZ",
+              channel: "Code with Harry",
+              hours: 25,
+            },
             {
-              title: "Operating System (Complete Playlist)",
-              url: "https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&si=HdL4gmyzOTPeZkF9",
-              channel: "Gate Smashers",
-              hours: 20,
+              title: "Php Tutorial for Beginners in Hindi with MySQL Project",
+              url: "https://youtu.be/1SnPKhCdlsU?si=RCRYwSW4k4rD1GWk",
+              channel: "Code with Harry",
+              hours: 3,
             },
           ],
         },
         {
-          name: "Software Engineering",
+          name: "Object Oriented Programming with Java",
           videos: [
             {
-              title: "Software Engineering",
-              url: "https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2&si=8KNGbSDB-0E6TVln",
-              channel: "Gate Smashers",
-              hours: 10,
+              title: "Java Tutorials For Beginners In Hindi",
+              url: "https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q&si=13ZGSJP3O5DITLzu",
+              channel: "Code with Harry",
+              hours: 25,
+            },
+            {
+              title: "Java Tutorial for Beginners ",
+              url: ["https://youtu.be/UmnCZ7-9yDY?si=VaPedrNmUkPq4OM_", "https://youtu.be/bSrm9RXwBaI?si=hpTu9TzkJj5PKLd6"],
+              channel: "Apna College",
+              hours: 4,
             },
           ],
         },

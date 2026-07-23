@@ -206,6 +206,46 @@ const learningData = {
         },
       ],
     },
+    {
+      semester: 6,
+      subjects: [
+        {
+          name: "Advance Java With Web Application",
+          videos: [
+            {
+              title: "Servlet & JSP Tutorial, Hibernate Tutorial, Java Database Connectivity (JDBC)",
+              url: ["https://youtu.be/OuBUUkQfBYM?si=NBoD8KsSvILlPLfe", "https://youtu.be/JR7-EdxDSf0?si=m-RGF_wAEeaq6Jln", "https://youtube.com/playlist?list=PLsyeobzWxl7rU7Jz3zDRpqB-EODzBbHOI&si=sFryecBxTH9ETAOv"],
+              channel: "Telusko",
+              hours: 13,
+            },
+            {
+              title: "JSP & Servlet Tutorial in ONE SHOT, JDBC (Java Database Connectivity) in Java , Java dev roadmap",
+              url: ["https://youtu.be/yspln7OJjmc?si=Xi0CN_66-uGepn-4","https://youtu.be/sifEAuiVUac?si=yGyQSQvo9MGdEwE6", "https://youtube.com/playlist?list=PLhvdldYcnZMku_viVb2tU7NuW5DZxwIfw&si=bVj2zCd-TOfEYmZc", ],
+              channel: "Coding Wallah Sir",
+              hours: 20,
+            },
+          ],
+        },
+        {
+          name: " Unix and Shell Programming",
+          videos: [
+            {
+              title: "Unix Shell Scripting Full Course",
+              url: "https://youtube.com/playlist?list=PL6UwySlcwEYIZGsbXnUxsojD0yeUA67lb&si=pwsDK5cm-5Oxs0A3",
+              channel: "AmpCode",
+              hours: 5,
+            },
+            {
+              title: "Shell Scripting Tutorial for Beginners",
+              url: "https://youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_&si=7nWRZiwPsvCVNZs0",
+              channel: "ProgrammingKnowledge",
+              hours: 8,
+            },
+          ],
+        },
+      ],
+    },
+
   ]
 };
 

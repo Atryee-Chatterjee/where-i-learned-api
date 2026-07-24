@@ -245,6 +245,50 @@ const learningData = {
         },
       ],
     },
+    {
+      semester: 7,
+      subjects: [
+        {
+          name: "Introduction to Machine Learning",
+          videos: [
+            {
+              title: "100 Days of Machine Learning ",
+              url: "https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=cdo5zsGXr83Eqxvl",
+              channel: "CampusX",
+              hours: 20,
+            },
+          ],
+        },
+        {
+          name: "Research Methodology",
+          videos: [
+            {
+              title: "Research Methodology One Shot",
+              url: "https://youtu.be/w1M10EOYHE0?si=3JxTFt_-JYrUxX4K",
+              channel: "NOT COMPILED",
+              hours: 2,
+            },
+            {
+              title: "Research",
+              url: "https://youtube.com/playlist?list=PLj2bwPFFKh3dUjz0R92vgL7km8XHHsBJb&si=N6f9n5QdK0i7zjfC",
+              channel: "Study Lovers Kapil Gangwani",
+              hours: 2,
+            },
+          ],
+        },
+        {
+          name: "Cyber Security",
+          videos: [
+            {
+              title: "Cyber Security Complete Course 2026",
+              url: "https://youtube.com/playlist?list=PL5OhSdfH4uDuCcQ-NZ4lYa3S07FQTFtrY&si=8aLcKHYwD92Qn8fC",
+              channel: "The TechZeen",
+              hours: 15,
+            },
+          ],
+        },
+      ],
+    },
 
   ]
 };

@@ -46,7 +46,7 @@ This project is my way of:
 ## 🔗 Example Endpoint
 
 ```
-/api
+/where-i-learned-api
 ```
 
 Returns structured JSON data like:

@@ -289,6 +289,33 @@ const learningData = {
         },
       ],
     },
+    {
+      semester: 7,
+      subjects: [
+        {
+          name: "Artificial Intelligence",
+          videos: [
+            {
+              title: "Artificial Intelligence [2026 Updated]",
+              url: "https://youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq&si=bzpZgKy-hznM_BXW",
+              channel: "by Simplilearn",
+              hours: 30,
+            },
+          ],
+        },
+        {
+          name: "statistical analysis with r programming",
+          videos: [
+            {
+              title: "Complete R Programming Tutorial",
+              url: "https://youtube.com/playlist?list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF&si=KmPBnI4XM64o4tNw",
+              channel: "by WsCube Tech",
+              hours: 15,
+            },
+          ],
+        },
+      ],
+    },
 
   ]
 };

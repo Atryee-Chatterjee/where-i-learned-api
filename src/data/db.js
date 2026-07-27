@@ -290,7 +290,7 @@ const learningData = {
       ],
     },
     {
-      semester: 7,
+      semester: 8,
       subjects: [
         {
           name: "Artificial Intelligence",

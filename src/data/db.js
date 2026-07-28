@@ -15,7 +15,26 @@ const learningData = {
       semester: 1,
       subjects: [
         {
+          name: "Digital Electronics",
+          paperCode: "BCAC101",
+          videos: [
+            {
+              title: "Digital Electronics",
+              url: "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGmXg4NoX6R31AsC5LeCPHe",
+              channel: "Gate Smashers",
+              hours: 20
+            },
+            {
+              title: "Digital Electronics",
+              url: "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+              channel: "Neso Academy",
+              hours: 30
+            }
+          ]
+        },
+        {
           name: "Programming in C",
+          paperCode: "BCAC102",
           videos: [
             {
               title: "C Full Course",
@@ -35,24 +54,6 @@ const learningData = {
               channel: "College Wallah",
               hours: 45
             },
-
-          ]
-        },
-        {
-          name: "Digital Electronics",
-          videos: [
-            {
-              title: "Digital Electronics",
-              url: "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGmXg4NoX6R31AsC5LeCPHe",
-              channel: "Gate Smashers",
-              hours: 20
-            },
-            {
-              title: "Digital Electronics",
-              url: "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
-              channel: "Neso Academy",
-              hours: 30
-            }
           ]
         }
       ]
@@ -62,6 +63,7 @@ const learningData = {
       subjects: [
         {
           name: "Computer Architecture",
+          paperCode: "BCAC201",
           videos: [
             {
               title: "Computer Organization and Architecture",
@@ -79,6 +81,7 @@ const learningData = {
         },
         {
           name: "Basics of Web Design Using Html, CSS, Java Script",
+          paperCode: "BCAC202",
           videos: [
             {
               title: "Sigma Web Development Course - Web Development Tutorials",
@@ -101,6 +104,7 @@ const learningData = {
       subjects: [
         {
           name: "Python Programming",
+          paperCode: "BCAC301",
           videos: [
             {
               title: "Python Tutorial For Beginners in Hindi",
@@ -118,6 +122,7 @@ const learningData = {
         },
         {
           name: "Data Structure through C",
+          paperCode: "BCAC302",
           videos: [
             {
               title: "Data Structures and Algorithms Course",
@@ -134,6 +139,7 @@ const learningData = {
       subjects: [
         {
           name: "Data Base Management System",
+          paperCode: "BCAC401",
           videos: [
             {
               title: "DBMS (Database Management system) Complete Playlist",
@@ -145,6 +151,7 @@ const learningData = {
         },
         {
           name: "Operating System",
+          paperCode: "BCAC402",
           videos: [
             {
               title: "Operating System (Complete Playlist)",
@@ -156,6 +163,7 @@ const learningData = {
         },
         {
           name: "Software Engineering",
+          paperCode: "BCAC403",
           videos: [
             {
               title: "Software Engineering",
@@ -172,6 +180,7 @@ const learningData = {
       subjects: [
         {
           name: "PHP WITH MYSQL",
+          paperCode: "BCAC501",
           videos: [
             {
               title: "PHP Tutorials in Hindi",
@@ -189,6 +198,7 @@ const learningData = {
         },
         {
           name: "Object Oriented Programming with Java",
+          paperCode: "BCAC502",
           videos: [
             {
               title: "Java Tutorials For Beginners In Hindi",
@@ -211,6 +221,7 @@ const learningData = {
       subjects: [
         {
           name: "Advance Java With Web Application",
+          paperCode: "BCAC601",
           videos: [
             {
               title: "Servlet & JSP Tutorial, Hibernate Tutorial, Java Database Connectivity (JDBC)",
@@ -228,6 +239,7 @@ const learningData = {
         },
         {
           name: " Unix and Shell Programming",
+          paperCode: "BCAC602",
           videos: [
             {
               title: "Unix Shell Scripting Full Course",
@@ -250,6 +262,7 @@ const learningData = {
       subjects: [
         {
           name: "Introduction to Machine Learning",
+          paperCode: "BCAC701",
           videos: [
             {
               title: "100 Days of Machine Learning ",
@@ -261,6 +274,7 @@ const learningData = {
         },
         {
           name: "Research Methodology",
+          paperCode: "BCAC702",
           videos: [
             {
               title: "Research Methodology One Shot",
@@ -278,6 +292,7 @@ const learningData = {
         },
         {
           name: "Cyber Security",
+          paperCode: "BCAC703",
           videos: [
             {
               title: "Cyber Security Complete Course 2026",
@@ -294,6 +309,7 @@ const learningData = {
       subjects: [
         {
           name: "Artificial Intelligence",
+          paperCode: "BCAC801",
           videos: [
             {
               title: "Artificial Intelligence [2026 Updated]",
@@ -305,6 +321,7 @@ const learningData = {
         },
         {
           name: "statistical analysis with r programming",
+          paperCode: "BCAC802",
           videos: [
             {
               title: "Complete R Programming Tutorial",

@@ -43,6 +43,14 @@ This project is my way of:
 
 ---
 
+## 📖 Syllabus Reference
+
+The semester and subject structure is based on the official **MAKAUT BCA (NEP) syllabus**.
+
+🔗 [MAKAUT BCA (NEP) Syllabus](https://makautexam.net/aicte_details/aicteugdetailsnep.html)
+
+---
+
 ## 🔗 Example Endpoint
 
 ```

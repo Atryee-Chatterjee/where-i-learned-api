@@ -78,14 +78,6 @@ A place where I can always come back and see:
 
 ---
 
-## 🧠 Future Scope
-
-* Add all semesters of BCA (NEP)
-* Improve structure and categorization
-* Keep updating with better resources over time
-
----
-
 ## ✨ Author
 
 <table>

@@ -1,6 +1,7 @@
 # where-i-learned-api
 
 A simple public JSON API where I document **where and how I learned during my BCA (NEP) journey**.
+
 <div align="left">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Atryee-Chatterjee.where-i-learned-api" alt="Repo Views"/>
@@ -13,9 +14,9 @@ As a BCA student under the NEP program, I often struggled to find the *right* Yo
 
 There are thousands of resources online, but very few that are:
 
-* Complete
-* Easy to understand
-* Relevant for exams
+- Complete
+- Easy to understand
+- Relevant for exams
 
 I ended up spending a lot of time searching instead of studying.
 
@@ -23,23 +24,33 @@ So I built this API.
 
 ---
 
+## 🚀 Live API
+
+The API is publicly deployed on **Render** and can be accessed here:
+
+🔗 **[Explore the Live API](https://where-i-learned-api.onrender.com/where-i-learned-api)**
+
+You can access the structured JSON data directly through the endpoint.
+
+---
+
 ## 💡 Purpose
 
 This project is my way of:
 
-* Keeping a **record of all the free study resources** I used
-* Organizing them **semester-wise and subject-wise**
-* Creating a **clear learning path** for myself
-* Helping other students avoid the same confusion
+- Keeping a **record of all the free study resources** I used
+- Organizing them **semester-wise and subject-wise**
+- Creating a **clear learning path** for myself
+- Helping other students avoid the same confusion
 
 ---
 
 ## 📚 What This API Contains
 
-* Semester-wise breakdown
-* Subject-wise organization
-* Curated YouTube video links
-* My personal learning references
+- Semester-wise breakdown
+- Subject-wise organization
+- Curated YouTube video links
+- My personal learning references
 
 ---
 
@@ -53,21 +64,23 @@ The semester and subject structure is based on the official **MAKAUT BCA (NEP) s
 
 ## 🔗 Example Endpoint
 
-```
-/where-i-learned-api
+**Base endpoint:**
+
+```text
+https://where-i-learned-api.onrender.com/where-i-learned-api
 ```
 
 Returns structured JSON data like:
 
-* My course details
-* Semester data
-* Subjects and their learning resources
+- My course details
+- Semester data
+- Subjects and their learning resources
 
 ---
 
 ## 🚀 Why I Built This
 
-Not as a big product.
+Not as a big product.  
 Not as a startup idea.
 
 Just something I wish I had when I started.
@@ -91,14 +104,14 @@ A place where I can always come back and see:
 <br>
 
 <a href="https://www.linkedin.com/in/atryee-chatterjee/">LinkedIn</a> • <a href="https://github.com/Atryee-Chatterjee">GitHub</a> • <a href="mailto:atryeechatterjee31@gmail.com">Email</a>
+
 <br>
 
-**Full Stack Developer** 
+**Full Stack Developer**
 
 </td>
 </tr>
 </table>
-
 
 ---
 
